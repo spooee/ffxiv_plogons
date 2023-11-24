@@ -2,7 +2,7 @@
   "Author": "spooee",
   "Name": "autobhop",
   "InternalName": "autobhop",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.0.0.2",
   "Description": "Hold spacebar to enable auto bunnyhop.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/spooee/ffxiv_autobhop",
@@ -13,5 +13,5 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/spooee/ffxiv_autobhop/master/icon.png",
   "Punchline": "auto bunnyhop now in ffxiv",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": false
 }
