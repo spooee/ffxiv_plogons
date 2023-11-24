@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "spooee",
+    "Name": "autobhop",
+    "Punchline": "auto bhop now in ffxiv",
+    "Description": "Hold spacebar to enable auto bunnyhop",
+    "InternalName": "autobhop",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/spooee/ffxiv_autobhop",
+    "ApplicableVersion": "any",
+    "CategoryTags": [
+      "auto",
+      "bhop",
+      "bunnyhop",
+      "autobhop",
+      "bunny"
+    ],
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://raw.githubusercontent.com/spooee/ffxiv_autobhop/master/icon.png",
+    "DownloadLinkInstall": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/autobhop/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/autobhop/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/autobhop/latest.zip",
+  }
+]
