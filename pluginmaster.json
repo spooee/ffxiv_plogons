@@ -23,8 +23,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/autobhop/latest.zip",
     "DownloadLinkUpdate": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/autobhop/latest.zip"
-  }
-
+  },
   {
     "Author": "spooee",
     "Name": "Don't Forget",
