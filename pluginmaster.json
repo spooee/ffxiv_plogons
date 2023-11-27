@@ -41,10 +41,10 @@
     ],
     "DalamudApiLevel": 9,
     "IconUrl": "https://raw.githubusercontent.com/spooee/ffxiv_dontforget/master/icon.png",
-    "DownloadLinkInstall": "https://github.com/spooee/ffxiv_plogons/blob/master/plugins/dontforget/latest.zip",
+    "DownloadLinkInstall": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/dontforget/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/spooee/ffxiv_plogons/blob/master/plugins/dontforget/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/spooee/ffxiv_plogons/blob/master/plugins/dontforget/latest.zip"
+    "DownloadLinkTesting": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/dontforget/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/dontforget/latest.zip"
   }
 ]
