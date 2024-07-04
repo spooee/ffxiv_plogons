@@ -27,7 +27,7 @@
   {
     "Author": "spooee",
     "Name": "Don't Forget",
-    "Punchline": "Never forget to draw a card, summon your stuff, or use peloton again.",
+    "Punchline": "Never forget to summon your stuff or use peloton again.",
     "Description": "At the start of every duty and every pull thereafter, automatically summons carbuncle and fairy as Summoner and Scholar. Automatically uses Peloton as Phys Ranged.",
     "Changelog": "",
     "InternalName": "dontforget",
