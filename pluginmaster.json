@@ -6,7 +6,7 @@
     "Description": "Hold spacebar to enable auto bunnyhop",
     "Changelog": "",
     "InternalName": "autobhop",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "RepoUrl": "https://github.com/spooee/ffxiv_autobhop",
     "ApplicableVersion": "any",
     "CategoryTags": [
@@ -16,7 +16,7 @@
       "autobhop",
       "bunny"
     ],
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "IconUrl": "https://raw.githubusercontent.com/spooee/ffxiv_autobhop/master/icon.png",
     "DownloadLinkInstall": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/autobhop/latest.zip",
     "IsHide": false,
