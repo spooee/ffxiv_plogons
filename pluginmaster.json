@@ -39,7 +39,7 @@
       "autodraw",
       "autopeloton"
     ],
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "IconUrl": "https://raw.githubusercontent.com/spooee/ffxiv_dontforget/master/icon.png",
     "DownloadLinkInstall": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/dontforget/latest.zip",
     "IsHide": false,
