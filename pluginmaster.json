@@ -31,7 +31,7 @@
     "Description": "At the start of every duty and every pull thereafter, automatically summons carbuncle and fairy as Summoner and Scholar. Automatically uses Peloton as Phys Ranged.",
     "Changelog": "",
     "InternalName": "dontforget",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "RepoUrl": "https://github.com/spooee/ffxiv_dontforget",
     "ApplicableVersion": "any",
     "CategoryTags": [
