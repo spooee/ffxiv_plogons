@@ -2,7 +2,7 @@
   "Author": "spooee",
   "Name": "Custom Idle",
   "InternalName": "customidle",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "1.0.0.0",
   "Description": "Performs an emote when you stop moving while sheathed (and unsheathed)",
   "ApplicableVersion": "any",
   "Tags": [
