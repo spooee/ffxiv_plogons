@@ -46,5 +46,27 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/dontforget/latest.zip",
     "DownloadLinkUpdate": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/dontforget/latest.zip"
+  },
+  {
+	"Author": "spooee",
+    "Name": "Custom Idle",
+    "Punchline": "Performs an emote when you stop moving while sheathed (and unsheathed)",
+    "Description": "Performs an emote when you stop moving while sheathed (and unsheathed)",
+    "Changelog": "",
+    "InternalName": "customidle",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/spooee/ffxiv_customidle",
+    "ApplicableVersion": "any",
+    "CategoryTags": [
+      "emote",
+      "idle"
+    ],
+    "DalamudApiLevel": 10,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/customidle/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/customidle/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/spooee/ffxiv_plogons/raw/master/plugins/customidle/latest.zip"  
   }
 ]
