@@ -1,5 +1,14 @@
-## PLOGONS
-my ffxiv plugins big repo for download free 2023 plugins ffxiv best free
+# PLOGONS
+A repository featuring my Dalamud plugins for Final Fantasy XIV.
+
+### Autobhop
+Automatically jump as soon as you touch the ground, which replicates auto bunnyhop!
+
+### Don't Forget
+Automatically summon your fairy or carbuncle when entering an instance or starting a new pull, as well as automatically activate Peloton outside of combat!
+
+### Custom Idle
+Automatically perform an emote of your choosing when your character stops moving!
 
 ## Installation
 - Type ```/xlsettings``` in chat
